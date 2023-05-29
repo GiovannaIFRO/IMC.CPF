@@ -1,0 +1,11 @@
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\bin\Debug\Form2.CPF.exe.config
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\bin\Debug\Form2.CPF.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\bin\Debug\Form2.CPF.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\obj\Debug\Form2.CPF.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\obj\Debug\Form2.CPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\obj\Debug\Form2.CPF.Form2.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\obj\Debug\Form2.CPF.Properties.Resources.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\obj\Debug\Form2.CPF.csproj.GenerateResource.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\obj\Debug\Form2.CPF.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\obj\Debug\Form2.CPF.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form2.CPF\obj\Debug\Form2.CPF.pdb

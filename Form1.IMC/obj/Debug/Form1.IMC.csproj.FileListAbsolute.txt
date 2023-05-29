@@ -1,0 +1,11 @@
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\bin\Debug\Form1.IMC.exe.config
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\bin\Debug\Form1.IMC.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\bin\Debug\Form1.IMC.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\obj\Debug\Form1.IMC.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\obj\Debug\Form1.IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\obj\Debug\Form1.IMC.Form1.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\obj\Debug\Form1.IMC.Properties.Resources.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\obj\Debug\Form1.IMC.csproj.GenerateResource.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\obj\Debug\Form1.IMC.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\obj\Debug\Form1.IMC.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\Form1.IMC\Form1.IMC\obj\Debug\Form1.IMC.pdb
